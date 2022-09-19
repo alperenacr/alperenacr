@@ -1,4 +1,7 @@
 ### Hi there 👋
+My first name and surname is Alperen Acar
+I had been studied in  Meram Science Highscool at Konya in 2017 - 2021
+Currently ı am a freshman at  Bilkent University
 
 <!--
 **alperenacr/alperenacr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
