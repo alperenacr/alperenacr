@@ -1,5 +1,6 @@
 ### Hi there 👋
 AI Engineering Student at Hacettepe University
+Check alperenacar.dev for project demos 
 
 <!--
 **alperenacr/alperenacr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
